@@ -6,7 +6,7 @@ public class Deducciones {
 				   primaVacacionalGravada,
 				   totalIngresosGravados,
 				   maximoDeducirColegiatura,
-				   totalDeduccionesSnR,
+				   totalDeduccionesSinRetiros,
 				   deduccionesPermitidas,
 				   montoSobreElCualSeCalculaISR,
 				   cuotaFija,
